@@ -1,2 +1,2 @@
 # AutomationUI
-test -git
+test -gitw
